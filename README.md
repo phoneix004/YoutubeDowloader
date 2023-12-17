@@ -40,9 +40,6 @@ pip install pytube
 
 If you would like to contribute to this project, feel free to open issues or pull requests. Contributions are welcome! 🚀
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). 📄
 
 ## Acknowledgments
 
